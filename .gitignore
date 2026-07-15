@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data files (too large for GitHub, download from Kaggle)
+data/raw/
+data/processed/
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model files (optional — can be large)
+models/*.pt
+models/*.pkl
